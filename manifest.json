@@ -1,0 +1,22 @@
+{
+  "name": "Portal Kelas MPI – STAI Al-Badar",
+  "short_name": "Portal MPI",
+  "description": "Portal akademik Manajemen Pendidikan Islam STAI Al-Badar Cipulus",
+  "start_url": "./portal-kelas-mpi-v2.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "lang": "id",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%2358a6ff'/><text y='.9em' font-size='80' x='10'>🎓</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education"],
+  "prefer_related_applications": false
+}
